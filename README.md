@@ -1,0 +1,1 @@
+# Fixed version - JS only, no TS deps
